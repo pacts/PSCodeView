@@ -1,5 +1,5 @@
 # PSCodeView
- 
+  仿照微信支付宝密码输入控件
  let width = UIScreen.main.bounds.width
 
         let rect = PSCodeView()
